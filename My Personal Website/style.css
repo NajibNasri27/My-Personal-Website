@@ -1,0 +1,106 @@
+body{
+
+	background-color: #063B59;
+}
+
+
+h1{ background-color: #CEF92D;
+	font-family: 'Bungee Outline', cursive;
+
+	font-size:50px; 
+	border:solid;
+
+}
+
+h2{ background-color:#CEF92D;
+
+font-family: 'Press Start 2P', cursive;
+font-size: 30px;
+border:dashed;
+
+}
+
+
+
+h4{background-color: #F9402D ;
+	font-size: 30px;
+	font-family: 'Indie Flower', cursive;
+	border:dotted;
+	border-radius:10px;
+
+
+}
+
+
+h5{
+	background-color: #6495ED;
+	font-family: 'Redressed', cursive;
+font-size: 40px;
+border:solid;
+border-radius: 20px;
+	
+
+}
+
+h6{
+	background-color: #0F52BA;
+	font-family: 'Permanent Marker', cursive;
+	font-size: 40px; 
+	color: #CEF92D;
+	border-style: groove;
+
+
+}
+
+h3{ background-color:#7DF9FF;
+	font-family: 'Lobster', cursive;
+	font-size: 30px;
+	border:solid;
+	border-radius: 20px;
+
+}
+
+
+p{	background-color: #00A36C;
+	font-family: 'Redressed', cursive;
+	font-size: 25px;
+	border:double;
+	border-radius: 25px;
+
+
+
+
+
+}
+
+
+a:link,a:visited { 
+	background-color: #89CFF0 ;
+	border:solid;
+	border-color: black;
+	font-family: 'Fredoka One', cursive;
+	font-size: 25px;
+	
+}
+
+a:hover, a:active{
+	background-color: red;
+	color: black;
+}
+
+table {
+
+	border-style: solid;
+	background-color: #40B5AD;
+	width: 100%;
+	font-family: 'Big Shoulders Stencil Text', cursive;
+	font-size: 30px;
+}
+
+img:hover {
+  
+  animation: shake 0.5s;
+  animation-iteration-count: infinite;
+}
+@keyframes shake {
+	50% { transform: translate(-1px, 2px) rotate(-1deg); }
